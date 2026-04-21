@@ -7,3 +7,4 @@ https://github.com/likithc67-rgb/Advance-Java-assignment/blob/main/lab1/p2output
 https://github.com/likithc67-rgb/Advance-Java-assignment/blob/main/lab1/p3output.png
 https://github.com/likithc67-rgb/Advance-Java-assignment/blob/main/lab1/p4output.png
 https://github.com/likithc67-rgb/Advance-Java-assignment/blob/main/lab1/p5output.png
+https://github.com/likithc67-rgb/Advance-Java-assignment/blob/main/lab1/p6output.png
